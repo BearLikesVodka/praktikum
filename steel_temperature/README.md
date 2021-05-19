@@ -10,4 +10,4 @@
 
 Использованные библиотеки:
 
-    - Python, Pandas, Matplotlib, Scikit-learn, Seaborn, math, Numpy, градиентный бустинг (XGBoost, LightGBM, CatBoost)
+  - Python, Pandas, Matplotlib, Scikit-learn, Seaborn, math, Numpy, градиентный бустинг (XGBoost, LightGBM, CatBoost)
