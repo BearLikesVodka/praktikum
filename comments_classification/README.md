@@ -7,3 +7,5 @@
 Использованные библиотеки:
 
   - Pandas, NLTK, RE, Scikit-learn
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/comments_classification/comments_classification.ipynb
