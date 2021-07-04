@@ -11,3 +11,5 @@
 Использованные библиотеки:
 
   - Python, Pandas, Matplotlib, Scikit-learn, Seaborn, math, Numpy, градиентный бустинг (XGBoost, LightGBM, CatBoost)
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/steel_temperature/steel_temperature.ipynb
