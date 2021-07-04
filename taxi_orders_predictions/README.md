@@ -7,3 +7,5 @@
 Использованные библиотеки:
 
   - Pandas, Matplotlib, Numpy, Scikit-learn, LightGBM, StatsModel
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/taxi_orders_predictions/taxi_orders_predictions.ipynb
