@@ -7,3 +7,5 @@
 Использованные библиотеки:
 
   - Pandas, Matplotlib
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/real_estate_analysis/real_estate_analysis.ipynb
