@@ -7,3 +7,5 @@
 Использованные библиотеки:
 
   - Pandas
+
+Ссылка на nbviwewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/borrowers_analysis/borrowers_analysis.ipynb
