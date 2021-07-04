@@ -7,3 +7,5 @@
 Использованные библиотеки:
 
   - Pandas, Numpy, Scikit-learn
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/data_protection/data_protection.ipynb
