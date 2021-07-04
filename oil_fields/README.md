@@ -7,3 +7,5 @@
 Использованные библиотеки:
 
   - Pandas, Numpy, Math, Scipy, Scikit-learn
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/oil_fields/oil_fields.ipynb
