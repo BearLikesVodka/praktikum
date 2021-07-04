@@ -6,3 +6,5 @@
 
 Использованные библиотеки:
   - Pandas, Scikit-learn
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/tariff_recommendation/tariff_recommendation.ipynb
