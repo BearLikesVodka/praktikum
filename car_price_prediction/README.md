@@ -7,3 +7,5 @@
 Использованные библиотеки:
 
   - Pandas, Numpy, LightGBM, CatBoost, Scikit-learn
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/car_price_prediction/car_price_prediction.ipynb
