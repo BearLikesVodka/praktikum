@@ -7,3 +7,5 @@
 Использованные библиотеки:
 
   - Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/tree/main/gold_recovery/
