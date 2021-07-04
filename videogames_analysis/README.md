@@ -7,3 +7,5 @@
 Использованные библиотеки:
 
   - Pandas, Matplotlib, Numpy, Scipy
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/videogames_analysis/videogames_analysis.ipynb
