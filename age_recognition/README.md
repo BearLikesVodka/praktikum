@@ -11,4 +11,4 @@
 Использованные библиотеки: 
   - Pandas, Matplotlib, Seaborn, Keras
 
-Посмотреть в nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/age_recognition/age_recognition.ipynb
+Посмотреть на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/age_recognition/age_recognition.ipynb
