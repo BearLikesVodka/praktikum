@@ -5,3 +5,5 @@
 
 Использованные библиотеки:
   - Pandas, Matplotlib, Numpy, Math, Scipy
+
+Ссылка на nbviewer: https://nbviewer.jupyter.org/github/BearLikesVodka/praktikum/blob/main/tariff_perspective/tariff_perspective.ipynb
